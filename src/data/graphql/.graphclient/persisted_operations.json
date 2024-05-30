@@ -1,0 +1,3 @@
+{
+  "388982496d7223a6c4a59163955b75241ab5211502d98d4984978e653795698c": "query GetBundles {\n  bundles(first: 5) {\n    id\n    ethPriceUSD\n  }\n}"
+}

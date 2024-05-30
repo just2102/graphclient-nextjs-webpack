@@ -1,0 +1,6 @@
+query GetBundles {
+  bundles(first: 5) {
+    id
+    ethPriceUSD
+  }
+}
